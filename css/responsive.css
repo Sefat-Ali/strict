@@ -1,0 +1,329 @@
+/*Responsive code start here*/
+@media (min-width: 279px) and (max-width: 319px) {
+  /*css star*/
+  /*header section*/
+  .header-section .menu .navbar-toggler {
+    border: 1px solid #000;
+  }
+  .header-section .menu .navbar-nav .nav-item .nav-link {
+    text-align: right;
+  }
+  .header-section .menu .navbar-toggler .fa {
+    color: #000;
+  }
+  .header-section .banner .banner-inner {
+    width: 100%;
+    padding: 80px 0px 0px;
+  }
+  .header-section .banner .banner-inner img {
+    width: 80%;
+  }
+  .header-section .banner .banner-inner p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .header-section .banner .inner-btn {
+    padding: 40px 0px;
+  }
+  .header-section .banner .arrow {
+    padding: 40px 0px 40px;
+  }
+  .header-section .banner-2 {
+    padding: 40px 0px;
+  }
+  .header-section .banner-2 .text {
+    padding: 0px;
+  }
+  .header-section .banner-2 .text h3 {
+    font-size: 27px;
+    line-height: 37px;
+  }
+  .header-section .banner-2 .text p {
+    font-size: 12px;
+    line-height: 14px;
+    padding: 0px 16px 0px;
+  }
+  /*header section*/
+  /*bg-section*/
+  .bg-section .inner-bg h5 {
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 700;
+  }
+  .bg-section .inner-bg p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  /*bg-section*/
+  /*work-section*/
+  .work-section .banner-2 .text {
+    padding: 0px 0px 0px;
+  }
+  .work-section .banner-2 .text h3 {
+    font-size: 17px;
+    line-height: 27px;
+    font-weight: 700;
+  }
+  .work-section .banner-2 .text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .work-section img {
+    margin: 0px 0px 0px;
+  }
+  /*work-section*/
+  /*contac-section*/
+  .contac-section .main-from {
+    padding: 0px 0px;
+  }
+  .contac-section .main-from .form-control {
+    width: 60%;
+    padding: 10px 0px;
+  }
+  .contac-section .banner-2 .text h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .contac-section .banner-2 .text p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .contac-section .main-from .inner-btn .btn-info {
+    width: 35%;
+    height: 35px;
+    font-weight: 400;
+  }
+  /*contac-section*/
+  /*footer section*/
+  .footer-section p {
+    text-align: center;
+  }
+  .social-icons ul {
+    text-align: center;
+  }
+  /*footer section*/
+  /*css end*/
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  /*css star*/
+  /*header section*/
+  .header-section .menu .navbar-toggler {
+    border: 1px solid #000;
+  }
+  .header-section .menu .navbar-nav .nav-item .nav-link {
+    text-align: right;
+  }
+  .header-section .menu .navbar-toggler .fa {
+    color: #000;
+  }
+  .header-section .banner .banner-inner {
+    width: 100%;
+    padding: 80px 0px 0px;
+  }
+  .header-section .banner .banner-inner img {
+    width: 97%;
+  }
+  .header-section .banner .banner-inner p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .header-section .banner .inner-btn {
+    padding: 40px 0px;
+  }
+  .header-section .banner .arrow {
+    padding: 40px 0px 40px;
+  }
+  .header-section .banner-2 {
+    padding: 40px 0px;
+  }
+  .header-section .banner-2 .text {
+    padding: 0px;
+  }
+  .header-section .banner-2 .text h3 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .header-section .banner-2 .text p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px 35px 0px;
+  }
+  /*header section*/
+  /*bg-section*/
+  .bg-section .inner-bg h5 {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 700;
+  }
+  .bg-section .inner-bg p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*bg-section*/
+  /*work-section*/
+  .work-section .banner-2 .text {
+    padding: 0px 0px 0px;
+  }
+  .work-section .banner-2 .text h3 {
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 700;
+  }
+  .work-section .banner-2 .text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .work-section img {
+    margin: 0px 0px 0px;
+  }
+  /*work-section*/
+  /*contac-section*/
+  .contac-section .main-from {
+    padding: 0px 0px;
+  }
+  .contac-section .main-from .form-control {
+    width: 60%;
+    padding: 10px 0px;
+  }
+  .contac-section .banner-2 .text h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .contac-section .banner-2 .text p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .contac-section .main-from .inner-btn .btn-info {
+    width: 35%;
+    height: 35px;
+    font-weight: 400;
+  }
+  /*contac-section*/
+  /*footer section*/
+  .footer-section p {
+    text-align: center;
+  }
+  .social-icons ul {
+    text-align: center;
+  }
+  /*footer section*/
+  /*css end*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /*css star*/
+  /*header section*/
+  .header-section .menu .navbar-toggler {
+    border: 1px solid #000;
+  }
+  .header-section .menu .navbar-nav .nav-item .nav-link {
+    text-align: right;
+  }
+  .header-section .menu .navbar-toggler .fa {
+    color: #000;
+  }
+  .header-section .banner .banner-inner {
+    width: 100%;
+    padding: 80px 0px 0px;
+  }
+  .header-section .banner .banner-inner h1 {
+    font-size: 60px;
+    line-height: 70px;
+    font-weight: 700;
+  }
+  .header-section .banner .banner-inner img {
+    width: 60%;
+  }
+  .header-section .banner .banner-inner p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .header-section .banner .inner-btn {
+    padding: 40px 0px;
+  }
+  .header-section .banner .inner-btn .btn-primary {
+    padding: 17px 40px;
+  }
+  .header-section .banner .arrow {
+    padding: 40px 0px 40px;
+  }
+  .header-section .banner-2 {
+    padding: 40px 0px;
+  }
+  .header-section .banner-2 .text {
+    padding: 0px;
+  }
+  .header-section .banner-2 .text h3 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .header-section .banner-2 .text p {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0px 35px 0px;
+  }
+  /*header section*/
+  /*bg-section*/
+  .bg-section .inner-bg h5 {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+  }
+  .bg-section .inner-bg p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  /*bg-section*/
+  /*work-section*/
+  .work-section .banner-2 .text {
+    padding: 0px 0px 0px;
+  }
+  .work-section .banner-2 .text h3 {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+  }
+  .work-section .banner-2 .text p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .work-section img {
+    margin: 0px 0px 0px;
+  }
+  /*work-section*/
+  /*contac-section*/
+  .contac-section .main-from {
+    padding: 0px 0px;
+  }
+  .contac-section .main-from .form-control {
+    width: 60%;
+    padding: 10px 0px;
+  }
+  .contac-section .banner-2 .text h3 {
+    font-size: 46px;
+    line-height: 56px;
+  }
+  .contac-section .banner-2 .text p {
+    font-size: 17px;
+    line-height: 27px;
+  }
+  .contac-section .main-from .inner-btn .btn-info {
+    width: 35%;
+    height: 35px;
+    font-weight: 400;
+  }
+  /*contac-section*/
+  /*footer section*/
+  .footer-section p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .social-icons ul {
+    text-align: center;
+  }
+  /*footer section*/
+  /*css end*/
+}
+/*Responsive code end here*/

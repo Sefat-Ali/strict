@@ -1,0 +1,297 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", sans-serif;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+/*header-section section css code start here*/
+.header-section {
+  width: 100%;
+  background: #f6f9f9;
+}
+.header-section .menu {
+  width: 100%;
+  padding: 20px 0px;
+}
+.header-section .menu .navbar-nav .nav-item .nav-link {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #000;
+  margin: 0px 0px 0px 25px;
+}
+.header-section .menu .navbar-nav .nav-item .nav-link:hover {
+  color: #15a4fa;
+}
+.header-section .menu .navbar-nav .nav-item .nav-link:focus {
+  color: #15a4fa;
+}
+.header-section .banner {
+  width: 100%;
+  height: ;
+  background: url("../images/Im.png") center top no-repeat;
+  background-size: cover;
+
+}
+.header-section .banner .particles-js-canvas-el{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.header-section .banner .banner-inner {
+  width: 100%;
+  padding: 80px 0px;
+  text-align: center;
+}
+.header-section .banner .banner-inner h1 {
+  font-size: 55px;
+  line-height: 65px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 10px 0px 10px;
+}
+.header-section .banner .banner-inner p {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #fff;
+  padding: 10px 0px 10px;
+}
+.header-section .banner .inner-btn {
+  width: 100%;
+  padding: 80px 0px;
+  text-align: center;
+}
+.header-section .banner .inner-btn .btn-primary {
+  padding: 12px 30px;
+  background: transparent;
+  color: #fff;
+  border: 1px solid #15a4fa;
+  border-radius: 4px;
+}
+.header-section .banner .inner-btn .btn-primary:hover {
+  color: #fff;
+  background: #15a4fa;
+  border-radius: 1px solid #15a4fa;
+}
+.header-section .banner .inner-btn .btn-primary:focus {
+  color: #fff;
+  background: #15a4fa;
+  border-radius: 1px solid #15a4fa;
+}
+.header-section .banner .arrow {
+  width: 100%;
+  padding: 80px 0px 80px;
+  text-align: center;
+}
+.header-section .banner .arrow .fa {
+  color: #fff;
+  font-size: 35px;
+}
+.header-section .banner-2 {
+  width: 100%;
+  padding: 80px 0px;
+}
+.header-section .banner-2 .text {
+  width: 100%;
+  padding: 0px 225px 0px;
+  text-align: center;
+}
+.header-section .banner-2 .text h3 {
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: 500;
+  color: #2d3950;
+}
+.header-section .banner-2 .text p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #999999;
+}
+/*header-section section css code end here*/
+/*bg-section section css code start here*/
+.bg-section {
+  width: 100%;
+  padding: 80px 0px;
+}
+.bg-section .inner-bg {
+  width: 100%;
+  padding: 0px 40px 0px 40px;
+  text-align: center;
+}
+.bg-section .inner-bg:hover {
+  background: #ffffff;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.bg-section .inner-bg img {
+  margin: 0px 0px 20px;
+}
+.bg-section .inner-bg h5 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #000;
+  margin: 0px;
+}
+.bg-section .inner-bg p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000;
+  color: #585859;
+  margin: 0px;
+}
+/*bg-section section css code end here*/
+/*work-section section css code start here*/
+.work-section {
+  width: 100%;
+  padding: 80px 0px;
+  background: #f6f9f9;
+}
+.work-section .banner-2 .text {
+  width: 100%;
+  padding: 0px 225px 0px;
+  text-align: center;
+}
+.work-section img:hover {
+  background: #ffffff;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.work-section img {
+  padding: 10px 0px 10px;
+  margin: 35px 0px 35px;
+}
+/*work-section section css code end here*/
+/*contac-section section css starst start here*/
+.contac-section {
+  width: 100%;
+  padding: 80px 0px;
+  background: url("../images/cont.png") center top no-repeat;
+  background-size: cover;
+}
+.contac-section .banner-2 .text {
+  width: 100%;
+  text-align: center;
+}
+.contac-section .banner-2 .text h3 {
+  font-size: 40px;
+  line-height: 50px;
+  font-ight: 500;
+  color: #fff;
+}
+.contac-section .banner-2 .text p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #999999;
+}
+.contac-section .main-from {
+  width: 80%;
+  padding: 80px 0px;
+}
+.contac-section .main-from .form-control {
+  width: 65%;
+  padding: 12px 0px;
+  background: transparent;
+  border: 1px solid #999999;
+  border-radius: 5px;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #000;
+  font-weight: 500;
+}
+.contac-section .main-from input::placeholder,
+.contac-section .main-from textarea::placeholder {
+  color: #999999;
+  margin: 12px;
+}
+.contac-section .main-from .form-control:focus {
+  color: #999999;
+  background-color: transparent;
+  border: 1px solid #999999;
+  box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
+}
+.contac-section .main-from .inner-btn .btn-info {
+  width: 15%;
+  height: 40px;
+  border-radius: 0px;
+  border: 1px solid #15a4fa;
+  background: transparent;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #fff;
+}
+.contac-section .main-from .inner-btn .btn-info:hover {
+  color: #fff;
+  background: #15a4fa;
+  border-radius: 1px solid #15a4fa;
+}
+.contac-section .main-from .inner-btn .btn-info:hover,
+.contac-section .main-from .inner-btn .btn-info:focus {
+  color: #fff;
+  border: 1px solid #15a4fa;
+}
+/*footer-section section css starst start here*/
+.footer-section {
+  width: 100%;
+  padding: 10px 0px;
+}
+.footer-section p {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #999999;
+  margin: 20px 0px 20px;
+}
+.social-icons {
+  width: 100%;
+  padding: 10px 0px;
+}
+.social-icons ul {
+  padding: 0px 0px;
+  margin: 0px;
+  width: 100%;
+  text-align: right;
+}
+.social-icons ul li {
+  list-style: none;
+  display: inline-block;
+}
+.social-icons ul li a {
+  display: block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 0px;
+  background: #15a4fa;
+  color: #fff;
+  margin: 0px 0px 0px 10px;
+  text-align: center;
+}
+.social-icons ul li a:hover,
+.social-icons ul li a:focus {
+  background: transparent;
+  color: #bf2222;
+  border: 1px solid #bf2222;
+}
+/*footer-section section css starst end here*/
